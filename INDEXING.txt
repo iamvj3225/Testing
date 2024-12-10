@@ -1,0 +1,23 @@
+###########
+Indexing  #
+###########
+
+
+indexing is nothing but implment biuanry search in our tabels 
+
+its means 
+ binary search when apply when that list is sorted that time we use
+ binary serach algoritham on that list 
+ 
+what happend when applying indexing 
+- its create separted memroy location in that memory that column
+created in sorted manner and also save pointer with that memeory location 
+
+indexing use :
+ B-tree data structre is used to stroe the indexing as it is a 
+ multilevel format od tree-based indexing ,which has balanced 
+ binary search trees
+
+writeinsentinve query 
+ when to usee 
+ when data is huge 
